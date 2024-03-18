@@ -4,7 +4,7 @@
 
 ## About This Repository
 
-This repository provides ***homework solutions*** for students majoying in ***Software Engineering*** (SE) at ***South China University of Technology*** (**SCUT**).
+This repository provides ***homework solutions*** for students majoying ***Software Engineering*** (SE) at ***South China University of Technology*** (**SCUT**).
 
 Following is the list of courses taken by students in the class of 2023. Lecturers of corresponding courses are also given if needed.
 
