@@ -15,7 +15,7 @@ Following is the list of courses taken by students in the class of 2023. Lecture
 - 工程制图【周述璋老师】
 
 - 高级程序语言设计（C++）（上）【刘飞老师】
-- 计算机与软件工程概论（新生研讨）【陈春花老师 & 蔡毅院长】
+- 计算机与软件工程概论（新生研讨）【陈春华老师 & 蔡毅院长】
 - 人工智能前沿与软件工程（卓越班新生研讨）【谭明奎教授】
 
 This repository includes homework solutions: 
