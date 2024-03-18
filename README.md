@@ -23,7 +23,7 @@ This repository includes homework solutions:
 - A Final Essay Writen in LaTeX for 计算机与软件工程概论
 - For 学术英语
     - A Presentation Slide
-    - Full Set of Spoc Answers
+    - Full Set of Spoc Answers (For Class A)
     - Full Set of Listening&Speaking Answers
 - Full Set of Homework solutions for 工科数学分析
 - Full Set of Homework solutions for 线性代数与解析几何
